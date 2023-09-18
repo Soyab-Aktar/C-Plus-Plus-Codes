@@ -1,0 +1,17 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+int main()
+{
+    int i = 1;
+    while (i <= 50)
+    {
+
+        cout << "Hello" << endl;
+        i++;
+    }
+    cout << endl;
+    cout << "Typing end";
+
+    getch();
+}
