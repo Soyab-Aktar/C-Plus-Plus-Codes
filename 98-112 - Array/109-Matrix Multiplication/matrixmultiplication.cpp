@@ -11,10 +11,10 @@ int main()
     cout << "Enter your col for 'a' matrix = ";
     cin >> col1;
 
-    // input form user for row and col for 'a' :
+    // input form user for row and col for 'b' :
     cout << "Enter your row for 'b' matrix = ";
     cin >> row2;
-    cout << "Enter your row for 'b' matrix = ";
+    cout << "Enter your col for 'b' matrix = ";
     cin >> col2;
 
     // Condition if not aplicable :
